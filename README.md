@@ -1,4 +1,4 @@
 # Niteesh-demo
 This is my first repository.
 <br>
-Author - Niteesh Verma
+Author - Niteesh (student)
