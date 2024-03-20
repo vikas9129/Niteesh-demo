@@ -1,4 +1,11 @@
-h1{
-    text-transform: capitalize;
-    color: brown;
+*{
+    background-color: rgb(67, 206, 248);
+    margin: 0%;
 }
+h1{
+    text-transform: uppercase;
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+
